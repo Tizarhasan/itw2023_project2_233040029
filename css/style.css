@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #f4f4f4;
+}
+
+body {
+    background: #221e18;
+}
+
+.nav-item .btn {
+    width: 100px;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption {
+    bottom: 400px;
+    z-index: 2;
+}
+
+.carousel-caption h3 {
+    margin-top: 25px;
+}
+
+/* category */
+.category .card {
+    background-color: #2c2822;
+}
